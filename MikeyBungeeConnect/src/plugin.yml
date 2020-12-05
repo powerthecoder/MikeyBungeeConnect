@@ -1,0 +1,9 @@
+main: "xyz.powerthecoder.MikeyBungeeConnect.Main"
+name: "MikeyBungeeConnect"
+author: "Leo Power"
+version: "1.0"
+api-version: "1.8"
+
+commands:
+  lobby:
+  factions:
